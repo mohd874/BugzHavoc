@@ -1,0 +1,14 @@
+- fix angleToEntity() in base: PENDING...
+- set all entities size to x:32*n y:32*n
+- add turret platform
+- make turrets placed only on top of their platforms
+- add two more turrets
+- add progress bar
+- add anti-gravity bar to player
+- add score property to game and its functions
+- add score to screen
+- add two secondary weapon entities
+- add secondary wepon to the shop
+- add weapons upgrade (this include turrets, bullets and secondry weapons)
+- add range to weapons. all weapons must have a spacific range of effect/attack
+- make the range drawable when the weapon is selected
