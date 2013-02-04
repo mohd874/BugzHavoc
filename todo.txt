@@ -1,6 +1,4 @@
-- fix angleToEntity() in base: PENDING...
 - set all entities size to x:32*n y:32*n
 - add progress bar
 - add nuke sub weapon
 - add sounds
-- fix ig.game.start(), currently it will reset the level but the shop items level remain the same.
