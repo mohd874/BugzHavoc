@@ -1,0 +1,18 @@
+- create new repo BugzHavoc2
+- draw a circle in the screen. this will simulate the player
+- move the circle using the accelerometer
+- draw border around the screen edge
+- when the circle touches the border, it goes back to the center of the screen (simulating death)
+- draw triangles (start with 3) in the screen. those are the enemies
+- make the triangles follow the circle. the triangles must rotate to the target while is moves forward.
+- when the circle touches the triangle, it goes back to the center of the screen (simulating death)
+- when triangles touches the border, they get removed
+- draw scores on the top right on the screen
+- the score must increase for each removed triangle
+- add weapons bench to the screen. the bench is a rectangle on the top of the screen
+- update the border size so it does not overlap the bench.
+- add weapon "glue" to the bench
+- when the glue is clicked, it will be highlighted. glue will be represented as hexagon
+- then when you click anywhere inside the border, it will be spilled in that place. 
+- the glue will stop the motion of any triangles that goes over it.
+- 
